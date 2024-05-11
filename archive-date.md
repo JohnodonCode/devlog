@@ -3,7 +3,7 @@ layout: page
 title: Blog Archive
 ---
 
-<a href="/archive.html">Sort by category</a>
+<a href="/archive">Sort by category</a>
 
 {%- assign allposts = site.posts | sort_natural: "date" | reverse %}
 
