@@ -7,7 +7,7 @@ title: Blog Archive
 
 {%- assign allposts = site.posts | sort_natural: "date" | reverse %}
 
-{%- assign postsByYearMonth = allposts | group_by_exp:"allposts", "allposts.date | date: '%Y %B'"  %}
+{%- assign postsByYearMonth = allposts | group_by_exp:"allposts", "allposts.date | date: '%B %Y'"  %}
 
 {%- for yearMonth in postsByYearMonth %}
 <h3>{{ yearMonth.name }}</h3>
