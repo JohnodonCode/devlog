@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Solutions for the APCSA 2024 FRQs"
+description: "My solutions for the 2024 AP Computer Science A Free Response Questions"
+date: 2024-05-11
+tags: Computer Science
+---
+
 # Solutions for APCSA 2024 FRQs (Form O)
 
 These are my solutions for the <a href="/assets/pdf/ap24-frq-comp-sci-a.pdf" target="_blank">2024 AP Computer Science A Free Response Questions</a>, as College Board hasn't released their own.
