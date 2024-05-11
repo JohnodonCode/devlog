@@ -20,6 +20,8 @@ github_username: "JohnodonCode"
 #########################################################################################
 theme: "minima"
 
+permalink: pretty
+
 rss: rss
 
 kramdown:
